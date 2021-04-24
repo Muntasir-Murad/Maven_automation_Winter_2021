@@ -1,6 +1,6 @@
 package Random;
 
-public class random1 {
+public class random100 {
     public static void main(String[] args) {
 
         System.setProperty("")
